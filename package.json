@@ -1,0 +1,18 @@
+{
+  "name": "s2a1-el-juego-de-boliche-s2a2-el-juego-de-boliche-rn-a2-team1",
+  "version": "1.0.0",
+  "description": "![BrightCoders Logo](img/logo.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.23.6",
+    "@babel/preset-env": "^7.23.6",
+    "babel-jest": "^29.7.0",
+    "eslint": "^8.56.0"
+  }
+}
