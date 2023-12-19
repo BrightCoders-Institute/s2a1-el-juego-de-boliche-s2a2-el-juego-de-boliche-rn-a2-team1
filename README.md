@@ -30,10 +30,10 @@ Needed run the project in the console with Node.js for see the result
 ## Credits
 
 This project was developed by [
-Co-authored-by: YahirCl <ycortes1@ucol.mx>
-Co-authored-by: CalixtoSD1117 ccalixtoengelberger117@gmail.com
-Co-authored-by: Jherrera11 jherrera11@ucol.mx
-Co-authored-by: VISOSO2403 ovisosodev@gmail.com
+* Co-authored-by: YahirCl <ycortes1@ucol.mx>
+* Co-authored-by: CalixtoSD1117 ccalixtoengelberger117@gmail.com
+* Co-authored-by: Jherrera11 jherrera11@ucol.mx
+* Co-authored-by: VISOSO2403 ovisosodev@gmail.com
 ].
 
 ## Badges
