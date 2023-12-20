@@ -165,3 +165,5 @@ class BowlingGame {
 // };
 
 // shotInFrame();
+
+module.exports = BowlingGame;
