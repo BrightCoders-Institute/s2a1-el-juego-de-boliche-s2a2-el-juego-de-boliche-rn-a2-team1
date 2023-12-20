@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1703034782283" clover="3.2.0">
-  <project timestamp="1703034782283" name="All files">
+<coverage generated="1703036147914" clover="3.2.0">
+  <project timestamp="1703036147914" name="All files">
     <metrics statements="45" coveredstatements="35" conditionals="33" coveredconditionals="18" methods="14" coveredmethods="13" elements="92" coveredelements="66" complexity="0" loc="45" ncloc="45" packages="1" files="1" classes="1"/>
-    <file name="index.js" path="D:\Documentos\BrightCoders\Semana 2\Actividad 1\s2a1-el-juego-de-boliche-s2a2-el-juego-de-boliche-rn-a2-team1\index.js">
+    <file name="index.js" path="/Users/calixto117/brightcoders/s2a1-el-juego-de-boliche-s2a2-el-juego-de-boliche-rn-a2-team1/index.js">
       <metrics statements="45" coveredstatements="35" conditionals="33" coveredconditionals="18" methods="14" coveredmethods="13"/>
       <line num="4" count="30" type="stmt"/>
       <line num="6" count="3" type="stmt"/>
@@ -23,8 +23,8 @@
       <line num="45" count="120" type="cond" truecount="1" falsecount="1"/>
       <line num="46" count="0" type="stmt"/>
       <line num="49" count="120" type="cond" truecount="2" falsecount="0"/>
-      <line num="50" count="3" type="stmt"/>
-      <line num="54" count="117" type="stmt"/>
+      <line num="50" count="19" type="stmt"/>
+      <line num="54" count="101" type="stmt"/>
       <line num="58" count="120" type="stmt"/>
       <line num="59" count="120" type="stmt"/>
       <line num="65" count="24" type="cond" truecount="2" falsecount="0"/>
@@ -36,8 +36,8 @@
       <line num="78" count="0" type="stmt"/>
       <line num="82" count="0" type="cond" truecount="0" falsecount="2"/>
       <line num="86" count="0" type="stmt"/>
-      <line num="91" count="3" type="stmt"/>
-      <line num="93" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="91" count="19" type="stmt"/>
+      <line num="93" count="19" type="cond" truecount="1" falsecount="1"/>
       <line num="98" count="132" type="cond" truecount="1" falsecount="1"/>
       <line num="103" count="120" type="cond" truecount="2" falsecount="0"/>
       <line num="108" count="12" type="stmt"/>
